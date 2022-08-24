@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.harsha</groupId>
-	<artifactId>b2b-curd</artifactId>
+	<artifactId>b2b-curd-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>b2b-curd</name>
-	<description>b2b-curd</description>
+	<name>b2b-curd-service</name>
+	<description>b2b-curd-service</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
